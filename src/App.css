@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.hello-text {
+  color: #20c45f;  /* Green color */
+  font-size: 36px;  /* Larger text size */
+  font-weight: bold;  /* Bold text */
+  margin-top: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);  /* Slight shadow for depth */
+}
